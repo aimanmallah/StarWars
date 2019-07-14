@@ -1,4 +1,4 @@
-# Star Wars API Fun
+# Star Wars API Practice
 
 ![Screenshot 2019-07-14 at 18 48 44](https://user-images.githubusercontent.com/47919053/61187325-10ca1700-a668-11e9-9112-e431daf0fe68.png)
 
